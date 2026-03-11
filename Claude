@@ -1,0 +1,27 @@
+*Links:
+-Anthropic Courses
+https://anthropic.skilljar.com
+  Claude 101
+
+-Cowork Youtube Intro
+https://youtu.be/_42sUaf037k?si=eyf1XIu1nrggVijd
+
+-"Skills" Building Guide
+https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf
+
+*Tips:
+-Prompt improvement:
+https://www.reddit.com/r/ClaudeAI/s/yUGNlmzKF0
+"Claude stores every prompt you've ever sent in ~/.claude/history.jsonl
+To level up your AI game, drop this prompt:
+"Can you analyze my entire ~/.claude/history.jsonl file as an expert in prompt engineering, context management, and agentic workflows, outline:
+10 great habits/patterns I consistently use (with real examples from my history)
+10 common mistakes/weaknesses I fall into (with examples)
+Reason step-by-step and give strong explanations for each."
+
+-Auto skill generation:
+Get access to prompt history then:
+"Based on my real usage patterns, generate a prioritized list of custom Commands and Skills I should create to optimize my workflow."
+
+-Insights
+try using /insights to get useful feedback from Claude
